@@ -67,6 +67,7 @@ Once you have the data, follow these steps:
 ## Data
 
 The repository does not include any specific dataset. You can use your own data or explore publicly available datasets related to books and user interactions. Make sure to format the data properly for the recommender system to work effectively.
+Dataset Link - https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset 
 
 ## Technologies Used
 
