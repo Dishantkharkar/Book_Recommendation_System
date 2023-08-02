@@ -1,6 +1,7 @@
 # Book Recommender System
+![sddefault](https://github.com/Dishantkharkar/Book_Recommendation_System/assets/130529528/a9779773-7e82-46ce-bff0-6efd36cce9e5)
 
-![Book Recommender System [(https://images.projectsgeek.com/2018/07/recommendation.png)]
+
 
 Welcome to the Book Recommender System repository! This project aims to provide book recommendations to users based on their preferences and historical interactions. Whether you are an avid reader or just looking for your next great read, this system can help you discover books that align with your interests.
 
