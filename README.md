@@ -17,7 +17,7 @@ Welcome to the Book Recommender System repository! This project aims to provide 
 
 ## Introduction
 
-The Book Recommender System is built using collaborative filtering techniques that analyze user behavior and patterns to recommend books. It leverages data on user interactions with books, such as ratings and reviews, to make personalized suggestions. The goal is to provide users with tailored book recommendations that match their tastes and preferences, leading to a more satisfying reading experience.
+The Book Recommender System is built using collaborative filtering techniques that analyze user behaviour and patterns to recommend books. It leverages data on user interactions with books, such as ratings and reviews, to make personalized suggestions. The goal is to provide users with tailored book recommendations that match their tastes and preferences, leading to a more satisfying reading experience.
 
 ## How It Works
 
@@ -84,7 +84,7 @@ We welcome contributions to enhance the Book Recommender System. If you find any
 
 ## License
 
-The Book Recommender System is open-source and available under the [MIT License ((https://github.com/Dishantkharkar/Book_Recommendation_System/blob/main/LICENSE.md[)).
+The Book Recommender System is open-source and available under the [MIT License]
 
 Happy reading and discovering new books with the Book Recommender System! If you have any questions or need assistance, feel free to reach out.
 
