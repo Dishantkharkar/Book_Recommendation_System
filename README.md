@@ -1,6 +1,6 @@
 # Book Recommender System
 
-![Book Recommender System[](https://images.projectsgeek.com/2018/07/recommendation.png)]
+![Book Recommender System [(https://images.projectsgeek.com/2018/07/recommendation.png)]
 
 Welcome to the Book Recommender System repository! This project aims to provide book recommendations to users based on their preferences and historical interactions. Whether you are an avid reader or just looking for your next great read, this system can help you discover books that align with your interests.
 
