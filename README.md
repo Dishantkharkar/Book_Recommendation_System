@@ -84,7 +84,7 @@ We welcome contributions to enhance the Book Recommender System. If you find any
 
 ## License
 
-The Book Recommender System is open-source and available under the [MIT License]([https://github.com/Dishantkharkar/Book_Recommendation_System/blob/main/LICENSE](https://github.com/Dishantkharkar/Book_Recommendation_System/blob/main/LICENSE.md)).
+The Book Recommender System is open-source and available under the [MIT License ((https://github.com/Dishantkharkar/Book_Recommendation_System/blob/main/LICENSE.md[)).
 
 Happy reading and discovering new books with the Book Recommender System! If you have any questions or need assistance, feel free to reach out.
 
