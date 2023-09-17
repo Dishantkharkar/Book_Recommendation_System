@@ -90,5 +90,4 @@ The Book Recommender System is open-source and available under the [MIT License]
 
 Happy reading and discovering new books with the Book Recommender System! If you have any questions or need assistance, feel free to reach out.
 
----
-*Note: Replace the placeholders in square brackets with the appropriate information specific to your project, such as the project description, usage instructions, data sources, etc.*# Book_Recommendation_System
+
